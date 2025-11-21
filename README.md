@@ -24,8 +24,6 @@ Python’s dominance stems from its accessible syntax and powerful libraries suc
 **Recommendation**  
 Aspiring professionals in data science, AI, or business intelligence should prioritize mastering Python. It serves as the foundational skill, with SQL, R, or Java as valuable complements.
 
-
-
 ---
 
 ## 2. Gender Gap: Talent vs. Representation
@@ -48,8 +46,6 @@ This imbalance extends to compensation, where males earn **57.9%** of the averag
 - Implement targeted recruitment to increase female participation.  
 - Enforce **equal pay policies** and transparency in compensation.  
 - Launch **mentorship programs** to support career advancement for women.
-
-
 
 ---
 
@@ -79,8 +75,6 @@ A clear positive correlation exists between education, experience, and income. H
 - Companies should expand **vocational programs** to accelerate career progression.  
 - Governments and institutions should support lifelong learning initiatives.
 
-
-
 ---
 
 ## 4. Geography: Asia Leads, Arab World Lags
@@ -105,8 +99,6 @@ This reflects a strong talent pool in Asia and growing interest in data fields.
 - Foster **international collaboration** between leading and emerging markets.  
 - Support **knowledge-sharing platforms** to transfer best practices.  
 - Invest in **local data science communities** in underrepresented regions.
-
-
 
 ---
 
